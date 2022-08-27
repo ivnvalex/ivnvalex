@@ -5,6 +5,7 @@ I am a ML enthusiast, passionate about CV.
 - 📫 How to reach me: Telegram – @ivnvalex
 
 - Some LeetCode stats:
+- 
 [![ivnvalex LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ivnvalex)](https://github.com/KnlnKS/leetcode-stats)
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
