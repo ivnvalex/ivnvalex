@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Alexander Ivanov</h1>
-<h3 align="center">AI enthusiast, passionate about CV</h3>
+<h3 align="center">AI enthusiast</h3>
 
 - 📫 How to reach me: [Telegram](https://t.me/ivnvalex), [LinkedIn](https://linkedin.com/in/ivnvalex)
 
